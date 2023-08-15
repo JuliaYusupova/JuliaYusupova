@@ -17,9 +17,10 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Примерная тестовая документация
+### Тестовая документация
 
 - [Postman Collections](https://github.com/JuliaYusupova/Postman_Collection/blob/main/README.md)
+- [Test-Cases](https://github.com/JuliaYusupova/Testing-documentation_examples/blob/main/README.md)
 
 ### Связаться со мной
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://instagram.com/julia.yusupova_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
